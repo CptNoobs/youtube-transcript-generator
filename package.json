@@ -1,0 +1,31 @@
+{
+  "name": "youtube-transcript-generator",
+  "version": "1.0.0",
+  "description": "A free YouTube transcript generator tool",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.4"
+  },
+  "keywords": [
+    "youtube",
+    "transcript",
+    "video-to-text",
+    "subtitles",
+    "content-creation"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
+
